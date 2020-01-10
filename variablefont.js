@@ -149,3 +149,5 @@ var VariableFont = /** @class */ (function () {
     };
     return VariableFont;
 }());
+
+export default VariableFont;
